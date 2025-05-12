@@ -1,0 +1,1 @@
+export const environment = { baseurl: 'https://linked-posts.routemisr.com' } 
